@@ -1,6 +1,3 @@
-import React from "react";
-import "./App.css";
-import Container from "@mui/material/Container";
 import {
   Avatar,
   Box,
@@ -10,17 +7,14 @@ import {
   FormControlLabel,
   Grid,
   Link,
-  List,
-  ListItemButton,
-  ListItemIcon,
-  ListItemText,
-  ListSubheader,
   Paper,
   TextField,
   ThemeProvider,
   Typography,
   createTheme,
 } from "@mui/material";
+import React from "react";
+import "./App.css";
 
 function Copyright(props) {
   return (
