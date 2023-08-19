@@ -1,0 +1,7 @@
+{
+  "name": "radpwatest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

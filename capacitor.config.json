@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.radpwatest",
+  "appName": "radpwatest",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
